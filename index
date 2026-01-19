@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Clean Clopan</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="navbar">
+    <div class="logo">MAPONTS</div>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Volume</a>
+        <a href="#">Services</a>
+        <a href="#">Value</a>
+        <a href="#">Pricing</a>
+    </nav>
+    <button class="btn-outline">Get Started</button>
+</header>
+
+<section class="hero">
+    <div class="hero-text">
+        <h1>Clean<br>Clopan</h1>
+        <p>
+            Better service platform with scalable and smart solution
+            for modern business needs.
+        </p>
+        <div class="hero-buttons">
+            <button class="btn-primary">Get App</button>
+            <button class="btn-secondary">Learn More</button>
+        </div>
+    </div>
+
+    <div class="hero-visual">
+        <div class="glass-card">
+            <h4>Account Overview</h4>
+            <div class="stats">
+                <div class="stat">Users<br><b>12K</b></div>
+                <div class="stat">Growth<br><b>+28%</b></div>
+            </div>
+            <button class="btn-primary small">Start Now</button>
+        </div>
+    </div>
+</section>
+
+<section class="features">
+    <div class="feature-card">
+        <div class="icon blue"></div>
+        <h4>White Clean</h4>
+        <p>Fast and simple service workflow.</p>
+    </div>
+
+    <div class="feature-card">
+        <div class="icon purple"></div>
+        <h4>Fast Deploy</h4>
+        <p>Quick setup without complex config.</p>
+    </div>
+
+    <div class="feature-card">
+        <div class="icon teal"></div>
+        <h4>Networking</h4>
+        <p>Scalable infrastructure support.</p>
+    </div>
+
+    <div class="feature-card">
+        <div class="icon pink"></div>
+        <h4>Cloud Access</h4>
+        <p>Secure cloud based management.</p>
+    </div>
+</section>
+
+</body>
+</html>
